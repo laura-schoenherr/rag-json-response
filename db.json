@@ -24,14 +24,16 @@
             "file_name": "unbekannt",
             "file_format": "unbekannt",
             "edit_date": "unbekannt",
-            "author": "unbekannt", ",
+            "author": "unbekannt", 
+            "text": "mehr Textchunk",
             "score": 0.9947
           },
           {
             "file_name": "unbekannt",
             "file_format": "unbekannt",
             "edit_date": "unbekannt",
-            "author": "unbekannt",",
+            "author": "unbekannt",
+            "text": "Wichtiger Inhalt",
             "score": 0.9865
           },
           {
